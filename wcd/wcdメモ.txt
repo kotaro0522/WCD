@@ -1,0 +1,22 @@
+ssh -l w13193 wcd.aid.design.kyushu-u.ac.jp
+yes
+a
+
+chmod -l a+r ファイル名
+
+https://moodle.artsci.kyushu-u.ac.jp
+http://wcd.design.kyushu-u.ac.jp/~w13193/test.html
+http://fls.aid.design.kyushu-u.ac.jp/CLASS/
+
+header
+section
+article
+footer
+
+float: left;
+float: right;
+
+mysql -u w13193 -p w13193
+password:13193
+
+show tables;

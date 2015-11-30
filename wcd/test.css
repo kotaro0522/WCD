@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: orange;
+	width: 80%;
+	margin: 0 auto;
+	/*text-align: center;*/
+}
+
+li {
+	color: #21FF00;
+}
+
+.a {
+	color: #EEFF00;
+}
+
+.b {
+	font-size: 36px;
+}

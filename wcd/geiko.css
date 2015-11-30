@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	width: 800px;
+	border: rgba(95,149,201,1.00) solid;
+	margin: 0 auto;
+}
+
+header {
+	background-color: rgba(95,149,201,1.00);
+	color: white;
+	text-align: center;
+	font-size: 36px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+section {
+	float: left;
+	width: 35%;
+	height: 530px;
+	min-height: 100%;
+	background-color: #E3EBF4;
+	font-size: 33px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+article {
+	float: right;
+	height: 100%;
+	padding-top: 40px;
+	padding-left: 86px;
+	margin: 0 auto;
+	
+}
+
+footer {
+	clear: both;
+	background-color: rgba(95,149,201,1.00);
+	color: white;
+	text-align: right;
+	font-size: 19px;
+	padding: 15px;
+}
+
+.img {
+	display: inline-block;
+	padding-right: 40px;
+	padding-bottom: 40px;
+}
