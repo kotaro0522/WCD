@@ -6,6 +6,19 @@
   box-sizing: border-box;
 }
 * {margin:0;padding:0;border: 0 none;position: relative;}
+
+#title {
+	
+}
+table {
+	table-layout:fixed;
+	width: 100%;
+	border: 2px #808080 solid;
+}
+
+td, th {
+	border: 2px #808080 solid;
+}
  
 html {
   background: url(dish3.jpg) no-repeat 10% fixed;
